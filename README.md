@@ -2,7 +2,7 @@
 # Тестовое задание (C#).
 
 ## Установка Microsoft Azure Storage Explorer.
-1. Установить Microsoft Azure Storage Explorer (https://azure.microsoft.com/en-us/features/storage-explorer/)
+1. Установить [Microsoft Azure Storage Explorer]
 2. Подключиться к hbgittest, используя 
 
 | Name | Key |
@@ -16,12 +16,17 @@
 - audios
 - frames
 
-В контейнере videos находится видео test.mkv. 
+В контейнере videos находится видео *test.mkv*. 
 
 ## Задание 1.
-Написать скрипт, который бы извлекал аудио из видеофайла test.mkv и сохранял его в контейнер audios в формате wav. 
+Написать скрипт, который бы извлекал аудио из видео *test.mkv* и сохранял его в контейнер audios в формате wav. 
 При этом запрещено сохранять любую информацию о файлах локально (любое локальное сохранение файлов или информации о них в решении будет расцениваться, как неправильное решение). 
 
 ## Задание 2.
-Написать скрипт, который бы извлекал каждые три секунды кадр из видеофайла test.mkv и сохранял их в контейнер frames. 
+Написать скрипт, который бы извлекал каждые три секунды кадр из видео *test.mkv* и сохранял их в контейнер frames. 
 При этом запрещено сохранять любую информацию о файлах локально (любое локальное сохранение файлов или информации о них в решении будет расцениваться, как неправильное решение). 
+
+### Полезные ссылки
+https://docs.microsoft.com/ru-ru/azure/visual-studio/vs-storage-aspnet5-getting-started-blobs
+
+[Microsoft Azure Storage Explorer]: <https://azure.microsoft.com/en-us/features/storage-explorer/>
