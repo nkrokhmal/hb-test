@@ -7,9 +7,9 @@
 
 | Name | Key |
 | ------ | ------ |
-| Storage account name  | hbgittest |
-| Key | up4w+hjVi6jo+yXPrwi1t16G8sBPWZEocCqRMSzlaaJ2nntWfXvd3Ondk9J52FlxSLOm21fZRe26w14UcMQjLA==|
-| Connection string | DefaultEndpointsProtocol=https;AccountName=hbgittest;AccountKey=up4w+hjVi6jo+yXPrwi1t16G8sBPWZEocCqRMSzlaaJ2nntWfXvd3Ondk9J52FlxSLOm21fZRe26w14UcMQjLA==;EndpointSuffix=core.windows.net |
+| Storage account name  | hbtesttask |
+| Key | c314HTO6+7n+zXWVqo8KXZVdZGXvTq7M9J4XWl861TEKuET1SU05yYBVRVBPUItJn6OCE7ULlVD/kyY5oW+nbA==|
+| Connection string | DefaultEndpointsProtocol=https;AccountName=hbtesttask;AccountKey=c314HTO6+7n+zXWVqo8KXZVdZGXvTq7M9J4XWl861TEKuET1SU05yYBVRVBPUItJn6OCE7ULlVD/kyY5oW+nbA==;EndpointSuffix=core.windows.net |
 
 В blob storage имеется три контейнера
 - videos
